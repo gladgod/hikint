@@ -3,7 +3,7 @@
     "description": "composer.json for update or install in ssh",
     "keywords": ["gladgod", "hikint", "composer", "pass through"],
     "homepage": "http://www.hikint.com/",
-    "type": "project",
+    "type": "application",
     "license": "BSD-3-Clause",
 
     "require": {
